@@ -5,3 +5,9 @@ function solution(numbers) {
     }
     return answer;
 }
+
+// 다른 풀이
+// function solution(numbers) {
+//     var answer = [];
+//     return numbers.map(number => number * 2);
+// }
