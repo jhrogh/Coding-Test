@@ -1,10 +1,10 @@
 # [level 0] 분수의 덧셈 - 120808 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120808) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=javascript) 
 
 ### 성능 요약
 
-메모리: 76.8 MB, 시간: 0.04 ms
+메모리: 33.4 MB, 시간: 0.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 10일 14:26:24
+2024년 07월 10일 14:49:02
 
 ### 문제 설명
 
