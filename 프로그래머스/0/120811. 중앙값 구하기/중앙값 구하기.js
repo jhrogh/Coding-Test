@@ -15,4 +15,17 @@ function solution(array) {
     answer = array[i];
     
     return answer;
+    
+    
+    // 다른 풀이
+    // array.sort((a, b) => a - b)[Math.floor(array.length / 2)]
+    
+    // 다른 풀이 관련 문법 설명
+    // 오름차순 정렬
+    // numbers.sort((a, b) => a - b);
+    // console.log(numbers); // 출력: [1, 2, 3, 4, 5]
+
+    // 내림차순 정렬
+    // numbers.sort((a, b) => b - a);
+    // console.log(numbers); // 출력: [5, 4, 3, 2, 1]
 }
