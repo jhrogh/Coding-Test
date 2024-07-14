@@ -17,6 +17,10 @@ class Solution {
         int i = array.length / 2;
         answer = array[i];
         
+        // 다른 풀이
+        // Arrays.sort(array);
+        // answer = array[array.length/2];
+        
         return answer;
     }
 }
