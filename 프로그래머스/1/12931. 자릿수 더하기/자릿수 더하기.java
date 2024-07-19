@@ -9,6 +9,12 @@ public class Solution {
             answer += Integer.parseInt(String.valueOf(str.charAt(i)));
         }
 
+        
+        // 다른 풀이
+        // while (n != 0) {
+        //     answer += n % 10;
+        //     n /= 10;
+        // }
         return answer;
     }
 }
