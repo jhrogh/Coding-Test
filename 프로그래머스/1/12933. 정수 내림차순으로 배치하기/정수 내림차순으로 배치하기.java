@@ -28,5 +28,15 @@ class Solution {
         answer = Long.parseLong(str);
         
         return answer;
+        
+        // 다른 풀이
+//         String[] list = String.valueOf(n).split("");
+//         Arrays.sort(list);
+
+//         StringBuilder sb = new StringBuilder();
+//         for (String aList : list) sb.append(aList);
+
+//         answer = Long.parseLong(sb.reverse().toString());
+//         return answer;
     }
 }
